@@ -4,3 +4,8 @@
 - Hadoop
 - Spark
 - Machine learning
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
