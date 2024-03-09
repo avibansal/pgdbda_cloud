@@ -8,4 +8,6 @@
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
-| Paragraph | Text |
+| Paragraph1 | Text1 |
+| Paragraph2 | Text2 |
+| Paragraph3 | Text3 |
